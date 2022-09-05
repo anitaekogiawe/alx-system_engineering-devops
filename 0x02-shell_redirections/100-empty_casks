@@ -1,2 +1,0 @@
-#1/bin/bash
-find . -empty f d | ls -lna | wc -l
